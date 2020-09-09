@@ -1,0 +1,24 @@
+#container{width:1350px; margin:0px auto; padding:20px;}
+#header{padding:20px; margin-bottom:20px; border:1px solid gray;}
+#footer{clear:both; padding:20px; border:1px solid gray;}
+		 	  
+ul.h li { width:190px; height:45px; position:relative; top:12px; font-family :'DX경필명조B';}
+ul.h{list-style-type:none; margin:0; padding:0; overflow:hidden; font-family :'DX경필명조B'; background-color:#bfa680;}
+li.h{float:left; solid #bbb;}
+li.h a.h{ color:black; text-align:center; padding:14px 16px; text-decoration:none; font-family :'DX경필명조B';}
+li.h a.h:hover:not(.active){background-color:#e0c096; font-family :'DX경필명조B';}
+h1{text-align:center;}
+.active{background-color:gray; font-family :'DX경필명조B';}
+a{text-decoration:none;}
+
+
+h4{color:#bfa680;font-family :'DX경필명조B';font-xize:40%;}
+		h3{color:#bfa680;font-family :'DX경필명조B';font-weight:bold;}
+		h2{color:#e0c096; text-align:center;font-family :'상상토끼 신비는일곱살';}
+		h1{color:#bfa680; text-align:center;font-family :'상상토끼 신비는일곱살';}
+		#p{font-family :'DX경필명조B';font-size:90%; font-weight:bold;}
+		#a{font-family :'DX경필명조B'; font-size:120%;}
+		#image{position:"absolute"; border:1px;}
+		#store{font-family :'DX경필명조B'; font-size:120%; background-color:#f5f5dc;}
+		body{max-width:100%; height: auto;}
+		img { display: block; margin: 0px auto; }
